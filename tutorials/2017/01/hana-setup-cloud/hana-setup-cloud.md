@@ -147,3 +147,6 @@ For more detailed instructions, check out [Connecting to Microsoft Azure with SS
 Make your very first steps on SAP HANA and develop a very simple "Hello World" application using the SAP HANA Web-based Development Workbench on the SAP HANA Cloud Platform.
 
  - [HANA and the Web Development Workbench](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
+ 
+ 
+ UPD

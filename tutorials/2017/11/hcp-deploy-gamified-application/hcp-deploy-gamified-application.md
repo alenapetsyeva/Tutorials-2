@@ -2,6 +2,7 @@
 title: Deploy gamified HelpDesk application to SAP HANA Cloud Platform
 description: Build HelpDesk application in Eclipse then perform a standalone deployment to your SAP HANA Cloud Platform account.
 tags: [  tutorial>beginner, topic>cloud, products>sap-hana-cloud-platform ]
+primary_tag: topic>abap-development
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner

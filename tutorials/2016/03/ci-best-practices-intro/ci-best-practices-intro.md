@@ -3,7 +3,7 @@
 title: Continuous Integration (CI) Best Practices with SAP: Introduction and Navigator
 description: Part 1: Introduction and Navigation through the Best Practices Guide
 tags: [  tutorial>intermediate, tutorial:type/project ]
-
+primary_tag: topic>abap-development
 ---
 
 ## Prerequisites  

@@ -1,6 +1,7 @@
 ---
 title: SAP HANA XS Classic, Enable XSODATA in your SAP HANA XSC Application
 description: In this tutorial you willenable XSODATA in the SAP HANA XSC application you just created.
+primary_tag: topic>abap-development
 tags: [ products>sap-hana, products>sap-hana-studio, products>sap-hana-cloud-platform, topic>sql, topic>big-data, tutorial>beginner]
 ---
 

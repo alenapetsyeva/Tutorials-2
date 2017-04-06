@@ -2,6 +2,7 @@
 title: SAP HANA cloud connector setup for secure on-premise connectivity
 description: Learn how to set up and configure the cloud connector for SAP HANA Cloud Platform
 tags: [  tutorial>intermediate, topic>cloud, topic>security, products>sap-hana-cloud-platform, products>cloud-connector-for-sap-hana-cloud-platform ]
+primary_tag: topic>abap-development
 ---
 ## Prerequisites  
  - **Proficiency:** Intermediate

@@ -2,7 +2,7 @@
 title: AngularJS - Connect to the OData source
 description: OData is our backend data source.  Connect to the public Northwind test data site.
 primary_tag: topic>html5
-tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform ]
+tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform, tutorial>a1, tutorial>a2 ]
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner

@@ -2,6 +2,7 @@
 title: SAP HANA XS Classic, Develop your first SAP HANA XSC Application
 description: In this tutorial you will make your very first SAP HANA XSC application using the SAP HANA Web-based Development Workbench.
 tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
+primary_tag: topic>abap-development
 ---
 
 ## Prerequisites  

@@ -2,7 +2,7 @@
 title: AngularJS - Add the AngularJS JavaScript
 description: Add the JavaScript to the static page, creating a dynamic page
 primary_tag: topic>html5
-tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform ]
+tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform, tutorial>t3, tutorial>t4 ]
 ---
 ## Prerequisites  
 - **Proficiency:** Beginner

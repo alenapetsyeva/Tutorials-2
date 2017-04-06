@@ -4,7 +4,7 @@
 title: Continuous Integration (CI) Best Practices with SAP: Artifact Repository
 description: Part 3.3: Setting up a Nexus Instance.
 tags: [  tutorial>intermediate, tutorial:type/project ]
-
+primary_tag: topic>abap-development
 ---
 
 ## Prerequisites

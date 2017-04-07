@@ -2,6 +2,7 @@
 title: for del
 description: Sign up for an account on our demo Gateway server (ES4).
 tags: [ products>sap-gateway, topic>cloud, topic>odata, tutorial>beginner ]
+primary_tag: topic>html5
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner

@@ -16,7 +16,7 @@ tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>inte
 ### You will learn  
 In this tutorial you will learn how to use the [Connectivity Service](https://help.hana.ondemand.com/help/frameset.htm?e54cc8fbbb571014beb5caaf6aa31280.html) to connect to an external (e.g. backend) system.
 
-For this part of the series, you will consume a RESTful weather service that returns data in JSON format: <http://openweathermap.org/api>.
+# For this part of the series, you will consume a RESTful weather service that returns data in JSON format: <http://openweathermap.org/api>.
 
  >Note: In order to consume the openweathermap API you need to apply for an API key as outlined here: <http://openweathermap.org/appid>. But don’t worry, that’s easy to do and won’t take longer than two minutes!
 

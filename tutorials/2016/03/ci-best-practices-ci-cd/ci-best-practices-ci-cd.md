@@ -2,7 +2,7 @@
 
 title: Continuous Integration (CI) Best Practices with SAP: CI/CD Practices
 description: Part 2.1: The Practices and Principles of CI and CD.
-tags: [  tutorial>intermediate, tutorial:type/project ]
+tags: [  tutorial>intermediate, tutorial:type/project, 123 ]
 primary_tag: topic>abap-development
 ---
 
@@ -16,7 +16,7 @@ primary_tag: topic>abap-development
   - [Back to the Navigator](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)
 
 ---
-
+test
 Continuous Integration (CI) and Continuous Delivery (CD) are both widely used in software engineering: CI as the adoption of agile principles, CD as a combination of agile methodology techniques with a high quality delivery process. Whereas CI deals with how to build up a software product from the contributions of single members of a development team in a controlled though lean way, CD focuses on validating every single change, preferably in an automated way, so that it is potentially shippable.
 
 What exactly the latter means depends on the context. It could mean, for example, taking a web application feature productive or putting a software on a download site. The process is able to serve one-man-shops as well as multiple teams working on one product and it can be adjusted to the customers' individual requirements and constraints. It is also flexible in the sense, that you can decide "how agile" you want the delivery process to be, so there is no need to implement agile practices that might not suit the environment you are working in. At the same time you are free to expand the process as needed.
